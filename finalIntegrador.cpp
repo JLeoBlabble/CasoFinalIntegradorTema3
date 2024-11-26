@@ -6,7 +6,7 @@
 
 using namespace std;
 
-/* Defines una estructura ColorConsole
+/* Defines una estructura ColorConsole.
  * con dos constantes estáticas que representan códigos de color ANSI
  * para la consola.
  */
